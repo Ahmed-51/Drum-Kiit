@@ -1,4 +1,4 @@
-# Drum-Kiit
+# Drum-Kit
 
 Bunch of Drums each making different sounds, made with **HTML, CSS, JAVASCRIPT**. User can click on the drums and may simulate any music.
 
